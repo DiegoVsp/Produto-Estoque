@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\Projeto-Produto\Projeto-Produto\bin\Debug\Projeto-Produto.exe.config
+C:\Users\diego\Desktop\Projeto-Produto\Projeto-Produto\bin\Debug\Projeto-Produto.exe
+C:\Users\diego\Desktop\Projeto-Produto\Projeto-Produto\bin\Debug\Projeto-Produto.pdb
+C:\Users\diego\Desktop\Projeto-Produto\Projeto-Produto\obj\Debug\Projeto-Produto.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Projeto-Produto\Projeto-Produto\obj\Debug\Projeto-Produto.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Projeto-Produto\Projeto-Produto\obj\Debug\Projeto-Produto.exe
+C:\Users\diego\Desktop\Projeto-Produto\Projeto-Produto\obj\Debug\Projeto-Produto.pdb
